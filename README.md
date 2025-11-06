@@ -1,6 +1,6 @@
 # SpeedyWeatherAssets
 
-Input data to run SpeedyWeather.jl.
+Input data and other assets to run SpeedyWeather.jl.
 
 ## Time-constant
 
