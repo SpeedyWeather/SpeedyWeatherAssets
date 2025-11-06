@@ -4,8 +4,8 @@ Input data to run SpeedyWeather.jl.
 
 ## Time-constant
 
-- orography
-- land-sea mask
+- Orography
+- Land-sea mask
 
 ## Climatologies
 
