@@ -2,17 +2,24 @@
 
 Input data and other assets to run SpeedyWeather.jl.
 
-## Time-constant
+## Boundary conditions
+
+### Time-constant
 
 - Orography
 - Land-sea mask
 
-## Climatologies
+### Climatologies
 
 Monthly data with a seasonal cycle
 
 - Sea surface temperature
 - Soil temperature
-- Soi moisture
+- Soil moisture
 - Albedo
 - Sea ice
+
+## Neural network weights
+
+### Land
+- Surface roughness
