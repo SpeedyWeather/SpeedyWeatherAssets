@@ -6,18 +6,19 @@ Input data and other assets to run SpeedyWeather.jl.
 
 ### Time-constant
 
-- Orography
 - Land-sea mask
+- Orography
+- Vegetation
 
 ### Climatologies
 
 Monthly data with a seasonal cycle
 
-- Sea surface temperature
-- Soil temperature
-- Soil moisture
 - Albedo
 - Sea ice
+- Sea surface temperature
+- Soil moisture
+- Soil temperature
 
 ## Neural network weights
 
