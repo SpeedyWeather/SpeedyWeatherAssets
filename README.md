@@ -2,7 +2,7 @@
 
 [![docs](https://img.shields.io/badge/documentation-main-blue.svg)](https://speedyweather.github.io/SpeedyWeatherDocumentation/dev/input_data)
 
-Input data and other assets to run SpeedyWeather.jl. Usage documentation found in the SpeedyWeather documentation [here]((https://speedyweather.github.io/SpeedyWeatherDocumentation/dev/input_data)),
+Input data and other assets to run SpeedyWeather.jl. Usage documentation found in the SpeedyWeather documentation [here](https://speedyweather.github.io/SpeedyWeatherDocumentation/dev/input_data),
 datasets themselves are described below.
 
 ## Boundary conditions
