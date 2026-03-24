@@ -13,16 +13,18 @@ in `data/boundary_conditions`
 
 - __orography.nc__ (IFS TCO1279 data bilinearly remapped to a 2048x1024 full Gaussian grid ~0.2˚C global resolution, rounded to 7 significant bits, zlib lossless compression)
 - Land-sea mask
+- Orography
+- Vegetation
 
 ### Climatologies
 
 Monthly data with a seasonal cycle
 
-- Sea surface temperature
-- Soil temperature
-- Soil moisture
 - Albedo
 - Sea ice
+- Sea surface temperature
+- Soil moisture
+- Soil temperature
 
 ## Neural network weights
 
