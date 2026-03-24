@@ -13,6 +13,7 @@ in `data/boundary_conditions`
 
 - __orography.nc__ (IFS TCO1279 data bilinearly remapped to a 2048x1024 full Gaussian grid ~0.2˚C global resolution, rounded to 7 significant bits, zlib lossless compression)
 - Land-sea mask
+- __glacier_mask.nc__ (ERA5-Land's (IFS) 'permanent' snow mask, which includes glaciers, Antarctica and Greenland.)
 
 ### Climatologies
 
